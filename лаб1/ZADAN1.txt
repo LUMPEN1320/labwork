@@ -1,0 +1,17 @@
+Before sort:
+A-Data 3600Hz 8Gb 
+CRUCIAL 4000Hz 32Gb 
+AMD 2666Hz 4Gb 
+KINGSTON 3200Hz 16Gb 
+G.Skill 3800Hz 16Gb 
+Patriot 2666Hz 8Gb 
+HyperX 3600Hz 32Gb 
+
+After sort:
+AMD 2666Hz 4Gb 
+Patriot 2666Hz 8Gb 
+KINGSTON 3200Hz 16Gb 
+HyperX 3600Hz 32Gb 
+A-Data 3600Hz 8Gb 
+G.Skill 3800Hz 16Gb 
+CRUCIAL 4000Hz 32Gb 
